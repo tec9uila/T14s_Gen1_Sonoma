@@ -6,7 +6,7 @@ Please feel free to use this EFI folder as a Bootable Installation Medium for ma
 credits:
 Acidanthera - OpenCore & all the Hackintosh work
 Lenovo - ThinkPad 14s Gen 1
-Apple - macOS&
+Apple - macOS
 Baio1977 - Ventura EFI(T14 Gen1)
 Dortania - The amazingly helpful guides
 
